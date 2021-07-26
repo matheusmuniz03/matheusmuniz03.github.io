@@ -22,21 +22,46 @@ body{
 .imagem-container{
     /*border: 1px solid;*/
     height: 415px;
+    width: 10%;
 }
 
 .container-interno{
-    width: 1300px;
+    width: 67%;
     position: absolute;
     left: 27%;
     height: 350px;
     padding: 10px;
     border: 2px solid black;
     font-size: 17px;
-    margin: 10px; 
+    margin: 10; 
 }
 
 .container-externo{
 
     height: 500px;
+    padding: 10px;
+    margin: 10px;
+    overflow: auto;
+}
+
+.container-habilidades{
+    border: 2px solid black;
+    height: 250px;
+}
+
+.container-hardskills{
+    /*border: 1px solid;*/
+    width: 20%;
+    margin: 20px;
+
+}
+
+.container-softskills{
+    /*border: 1px solid;*/
+    width: 20%;
+    position: absolute;
+    top: 569px;
+    left: 25%;
+    margin: 20px;
 
 }
