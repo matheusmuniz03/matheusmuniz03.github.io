@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(117, 117, 117);
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 20px;
+}
+.MatheusMuniz{
+    text-align: center;
+    line-height: 40px;
+}
+
+#minha-foto{
+    border-radius: 800px;
+    width: 350px;
+    position: absolute;
+    left: 75px;
+    top: 95px;
+    padding: 10px;
+    background-color: rgb(45, 115, 247);
+}
+
+.imagem-container{
+    /*border: 1px solid;*/
+    height: 415px;
+}
+
+.container-interno{
+    width: 1300px;
+    position: absolute;
+    left: 27%;
+    height: 350px;
+    padding: 10px;
+    border: 2px solid black;
+    font-size: 17px;
+    margin: 10px; 
+}
+
+.container-externo{
+
+    height: 500px;
+
+}
